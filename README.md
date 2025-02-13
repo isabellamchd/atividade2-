@@ -75,4 +75,5 @@ rmdir C:\teste
 *Explicação: Remove o diretório se ele estiver vazio.*
 
 https://www.devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800
-devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800
+
+https://devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800
