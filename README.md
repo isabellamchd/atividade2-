@@ -34,6 +34,8 @@ bath
 mkdir C:\novo_diretorio
 ```
 
+*Explicação: O comando mkdir é utilizado para exibir mensagens na tela.*
+
 **ECHO.: Salta uma linha.**
 
 ```markdown
