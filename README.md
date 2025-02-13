@@ -6,11 +6,37 @@
 
 CLS: Limpa o console.
 
-start calc.exe: Inicia a calculadora.
+```markdown
+bath
+@echo off
+cls
+echo Iniciando o processo de backup...
+```
 
-cd\docume~1\%username%\documentos: Acessa o diretório onde será realizado backup.
+dir: ele é utilizado para exibir uma lista de arquivos e pasta no diretório atual.
+
+```markdown
+bath
+dir
+```
+
+
+mkdir: ele é utilizado paracriar diretórios
+
+```markdown
+bath
+
+mkdir C:\novodir
+```
 
 ECHO.: Salta uma linha.
+
+```markdown
+bath
+
+@echo off
+echo Olá, bem-vindo ao meu script!
+```
 
 https://www.devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800
 devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800
